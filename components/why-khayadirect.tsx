@@ -42,7 +42,7 @@ export function WhyKhayaDirect() {
         <div>
           <div className="overflow-hidden rounded-xl border border-border shadow-[0_24px_60px_-30px_rgba(30,40,30,0.35)]">
             <Image
-              src="/images/materials.png"
+              src="/KhayaDirect/images/materials.png"
               alt="A neatly arranged flat-lay of building material samples: timber veneer, face bricks, tile swatches, a metal hinge and paint cards on a limestone surface"
               width={1024}
               height={1024}

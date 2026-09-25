@@ -50,7 +50,7 @@ export function Hero() {
         <div className="relative duration-700 animate-in fade-in slide-in-from-bottom-4">
           <div className="relative overflow-hidden rounded-xl border border-border shadow-[0_24px_60px_-24px_rgba(30,40,30,0.35)]">
             <Image
-              src="/images/hero-home.png"
+              src="/KhayaDirect/images/hero-home.png"
               alt="A modern small backyard room with brick and timber cladding, large black-framed windows and a landscaped garden at golden hour"
               width={1024}
               height={1024}
